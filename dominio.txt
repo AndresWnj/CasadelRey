@@ -6,3 +6,5 @@ https://andreswnj.github.io/CasadelRey/miercoles.mp3
 https://andreswnj.github.io/CasadelRey/grupos/miercoles.mp3
 
 https://andreswnj.github.io/CasadelRey/audios/domingo.mp3
+
+https://andreswnj.github.io/CasadelRey/audios/miercoles.mp3
